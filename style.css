@@ -91,14 +91,14 @@ section {
     color: #eff2eb;
     transform: scale(1.1);
 }
-.social-icons a{
-    color: black;
+.main .social-icons a{
+    color:#b8bfba ;
     font-size: 1.7em;
-    padding-right: 30px;
+    padding: 1em;
     transition: 0.6s ease;
 }
 .social-icons a:hover {
-    color: #b8bfba;
+    color: #731a22;
 }
 
 
@@ -223,13 +223,12 @@ section {
 .footer {
     background-color: #731a22;
     color: #eff2eb;
-    padding: 2em;
+    padding: 1.07em;
     display: flex;
     justify-content: space-between;
-
 }
 .footer-title {
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: 600;
 
 }
@@ -238,10 +237,14 @@ section {
 } */
 footer .social-icons a {
     color: #eff2eb;
+    font-size: 1.3em;
     transition: 0.8s ease;
+    padding: 1em;
+
 }
+
 footer .social-icons a:hover {
-    color: #867f9e;
+    color: #e7ca00;
 }
 
 
